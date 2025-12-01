@@ -22,6 +22,12 @@ I’m currently exploring exciting projects and expanding my skills in web devel
  
 - [**BACKEND**](https://github.com/Pilou2618/BACKEND) - A backend server node-js where are information for Pokedex. 
 
+- [**Carte-Infrastructure**](https://github.com/Pilou2618/Carte-Infrastructure) - A visual mapping tool to display and manage infrastructure components and dependencies.
+
+- [**API-user-Random**](https://github.com/Pilou2618/API-user-Random) - A REST API that generates random user data, useful for testing and development purposes.
+
+- [**Jokes_API**](https://github.com/Pilou2618/Jokes_APIJokes_API) - A fun API service that delivers random jokes, perfect for entertainment and integration into applications.
+
 ## Connect with Me
 
 [**CV**](https://www.canva.com/design/DAF7p98EdxI/bvklApc9NTS4IFvXT0TioA/edit?utm_content=DAF7p98EdxI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - My CV.
