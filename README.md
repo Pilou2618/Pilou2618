@@ -32,4 +32,4 @@ I’m currently exploring exciting projects and expanding my skills in web devel
 
 [**CV**](https://www.canva.com/design/DAF7p98EdxI/bvklApc9NTS4IFvXT0TioA/edit?utm_content=DAF7p98EdxI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - My CV.
 
-[**Linkedin**](www.linkedin.com/in/pierre-louis-devaux) - My Linkedin
+[**Linkedin**](https://www.linkedin.com/in/pierre-louis-devaux) - My Linkedin
