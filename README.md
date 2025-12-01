@@ -8,12 +8,20 @@ I’m currently exploring exciting projects and expanding my skills in web devel
 
 ## Skills & Technologies
 
-html,css,react,vue,nodejs,express,git,docker,mysql,java,flutter
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
 
-## Top Projects
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-Javascript-007396?style=for-the-badge&logo=javascript&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+## Projects
 
 - [**SuperSimon**](https://github.com/Pilou2618/SuperSimon) - A fun interactive game built with JavaScript. 
 
 - [**Pokedex**](https://github.com/Pilou2618/Pokedex) - A web application to explore Pokémon data. 
  
-- [**BACKEND**](https://github.com/Pilou2618/BACKEND) - A backend service for various applications. 
+- [**BACKEND**](https://github.com/Pilou2618/BACKEND) - A backend server node-js where are information for Pokedex. 
+
+## Connect with Me
+
+[**CV**](https://www.canva.com/design/DAF7p98EdxI/bvklApc9NTS4IFvXT0TioA/edit?utm_content=DAF7p98EdxI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - My CV.
